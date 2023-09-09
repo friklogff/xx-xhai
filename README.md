@@ -12,4 +12,4 @@ license: openrail
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 说明书详情见
-CSDN:https://editor.csdn.net/md/?articleId=132780396
+CSDN:https://blog.csdn.net/qq_42531954/article/details/132780396
